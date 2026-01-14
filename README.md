@@ -97,17 +97,6 @@ python main.py
 6. Monitor progress with the progress bar and status label
 7. View results in the output folder and console log
 
-## Project Structure
-
-```
-photo-size-reducer/
-├── main.py           # Application entry point
-├── app.py            # Main application logic (ImageSizeReducer)
-├── ui.py             # User interface setup (UISetup)
-├── processor.py      # Image processing logic (ImageProcessor)
-├── utils.py          # File operations utility (FileOperations)
-└── README.md         # This file
-```
 
 ## Technical Highlights
 
